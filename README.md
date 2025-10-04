@@ -26,3 +26,11 @@ sequences/: A folder containing text files with DNA sequences (e.g., 1.txt, 2.tx
 
 README.md: This file, explaining the project and how to run it.
 
+How to run:
+
+Navigate to the DNA folder
+
+Run the program with a database and sequence file
+
+View the output: The program prints the matching person’s name or "No match".
+
