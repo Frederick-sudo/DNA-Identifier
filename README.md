@@ -34,3 +34,5 @@ Run the program with a database and sequence file
 
 View the output: The program prints the matching person’s name or "No match".
 
+Ensure you have write permissions in the project directories to create/modify files
+
